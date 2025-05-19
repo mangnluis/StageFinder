@@ -2,7 +2,7 @@
 
 # StageFinder – Architecture du site
 
-Ce README.md contient l'ensemble des explications des fichiers destinés à être servis côté client (frontend), ainsi que certains éléments de traitement côté serveur si nécessaire. Ce document décrit l'architecture générale du site pour aider à la compréhension, la maintenance et l’évolution du projet. Pour une démo envoyé un mail à : louis.mangin.2004@gmail.com
+Ce README.md contient l'ensemble des explications des fichiers destinés à être servis côté client (frontend), ainsi que certains éléments de traitement côté serveur si nécessaire. Ce document décrit l'architecture générale du site pour aider à la compréhension, la maintenance et l’évolution du projet. Pour une démo envoyez un mail à : louis.mangin.2004@gmail.com
 
 ---
 
